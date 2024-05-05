@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage": "https://mohammad-imran786.github.io/my_first_portfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
