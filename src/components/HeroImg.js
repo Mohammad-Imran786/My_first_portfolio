@@ -11,7 +11,7 @@ import { Link } from "react-router-dom"
 const Heroimg = () => {
 
     const [text] = useTypewriter({
-        words: ['Coder', 'Web Developer', 'Blogger', 'React Developer', 'Cricketer'], 
+        words: ['Coder', 'Front End Developer', 'Blogger', 'Problem Solver', 'Cricketer'], 
         loop: {}, typeSpeed: 100, deleteSpeed: 100,
 
     })
